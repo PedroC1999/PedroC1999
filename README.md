@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">Graduate Software Engineer at SPTS/KLA</h3>
+<h3 align="center">Software Engineer at SPTS/KLA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroc1999&label=Profile%20views&color=ff7300&style=flat" alt="pedroc1999" /> </p>
 
